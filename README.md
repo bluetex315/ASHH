@@ -9,7 +9,7 @@ The goal of this project is
 3. to conduct cross domain algorithm selection on the various available Hyper-Heuristics on the extended problem instances
 
 ## List of available hyper-heuristics
-The following is the list of CHeSC 2011 competition hyper-heuristics that are available in this repository. See details in the `hyflex-hyperheuristics` folder for each hyper-heuristic.
+The following is the list of CHeSC 2011 competition hyper-heuristics that are available in this repository. See details in the `Examples_Lihui/hyflex-hyperheuristics` folder for each hyper-heuristic.
 
 The table shows evaluated solutions for each hyper-heuristic (each run with 120s timeout and 5 repeats) using our unit metric.
 
