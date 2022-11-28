@@ -13,4 +13,4 @@ The following is the list of CHeSC 2011 competition hyper-heuristics that are av
 
 The table shows evaluated solutions for each hyper-heuristic (each run with 120s timeout and 5 repeats) using our unit metric.
 
-![Hyper-heuristics](Examples_Lihui/hyflex-hyperheuristics/heatmap_120_5.svg)
+![Hyper-heuristics](hyflex-hyperheuristics/heatmap_120_5.svg)
